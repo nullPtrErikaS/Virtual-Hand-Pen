@@ -6,7 +6,7 @@ Here is source code for an example of hand tracking using **mediapipe** library.
 
 ## Result:
 <p align="center">
-  <img src="./result/result.gif" width=600><br/>
+  <img src="ersp result.png" width=600><br/>
   <i>Result</i>
 </p>
 
