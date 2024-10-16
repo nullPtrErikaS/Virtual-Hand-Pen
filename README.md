@@ -19,8 +19,12 @@ To get started with the Virtual Hand Pen Project, follow these steps:
    ```bash
    git clone [https://github.com/yourusername/virtual-hand-pen.git](https://github.com/nullPtrErikaS/Virtual-Hand-Pen)
 
- 2. **Install Dependencies:**
+2. **Install Dependencies:**
+    ```bash
     pip install -r requirements.txt
+    
+3. **Run with Webcam**
+   ```bash
+   python draw.py
+   ```
 
- 3. **Run the Application**
-    python main.py
