@@ -10,7 +10,7 @@ The Virtual Hand Pen Project is an application that utilizes advanced hand-track
 - **Gesture Controls**: Implement gestures to erase, change color, or stop drawing
 
 ## Results
-[Click here to view the results](20241016082758 - Trim.mp4)
+[![Introduction to Virtual Hand Pen]([http://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](http://www.youtube.com/watch?v=dQw4w9WgXcQ "Introduction to Virtual Hand Pen")
 
 ## Installation
 To get started with the Virtual Hand Pen Project, follow these steps:
